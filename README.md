@@ -52,7 +52,7 @@ codenk-learning-center/
 ---
 ## 🚀 Project Demo
 
-![Project Demo](assets/codenklearningcentergifdemo.gif)
+![Project Demo](assets/codenklearningcenter-gifdemo.gif)  
 
 
 🎥 Full Demo Video:  
