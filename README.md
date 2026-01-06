@@ -50,11 +50,14 @@ codenk-learning-center/
 - 📱 Beginner-friendly static site structure
 
 ---
-## 📸 Project Screenshot
+## 🚀 Project Demo
 
-Here’s a glimpse of the website layout:
+![Project Demo](assets/codenklearningcentergifdemo.gif)
 
-![CODENK Website Screenshot](images/photo-collage.png)
+
+🎥 Full Demo Video:  
+[Click here to watch](assets/codenklearningcenterdemo-video.mp4)
+
 
 ---
 
