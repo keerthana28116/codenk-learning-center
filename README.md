@@ -47,7 +47,14 @@ codenk-learning-center/
 - 📝 Working admission form with success page  
 - 🖼️ Image handling using relative paths  
 - 🌐 Live deployment with GitHub Pages  
-- 📱 Beginner-friendly static site structure  
+- 📱 Beginner-friendly static site structure
+
+---
+## 📸 Project Screenshot
+
+Here’s a glimpse of the website layout:
+
+![CODENK Website Screenshot](images/photo-collage.png)
 
 ---
 
